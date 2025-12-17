@@ -1,2 +1,2 @@
 # Derivatives-trading
-Python-based backtester to optimize option trading strategies (in progress). 
+Python-based backtester to optimize trading strategies for European options. 
